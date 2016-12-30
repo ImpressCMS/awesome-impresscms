@@ -14,4 +14,4 @@ The ImpressCMS list of interesting technologies and projects out there
 
 ## Smartfactory
 The Smartfactory was originally a collective of individuals around Marc-Andre Lanciaut (one of the founders of ImpressCMS) that tried to push the boundaries of the system while they created open source modules. Several of the Smartfactory modules are still out there
-* [SmartContent](https://github.com/SmartFactoryCA/smartcontent) - Content page manager
+* [SmartContent](https://github.com/SmartFactoryCA/smartcontent) - Content page manager, the base inspiration for the current content core module
