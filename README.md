@@ -7,6 +7,7 @@ The ImpressCMS list of interesting technologies and projects out there
 * [phpStorm](https://www.jetbrains.com/phpstorm/) - An awesome IDE that makes PHP development easier. sponsors us with free licenses.
 * [HTMLPurifier](https://htmlpurifier.org) - The base library of our security effort. 
 * [WideImage](https://github.com/smottt/WideImage) - Object based PHP Image handling
+* [Countries](https://github.com/mledoze/countries) - A structured dataset of country information that could well be the one-stop shop for country and language information
 
 # ImpressCMS Modules
 ## Core Team
