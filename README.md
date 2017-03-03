@@ -9,6 +9,10 @@ The ImpressCMS list of interesting technologies and projects out there
 * [WideImage](https://github.com/smottt/WideImage) - Object based PHP Image handling
 * [Countries](https://github.com/mledoze/countries) - A structured dataset of country information that could well be the one-stop shop for country and language information
 
+# Want to integrate
+* [PHP Minifier](https://github.com/matthiasmullie/minify) a PHP script that combines and minifies javascript and CSS. A must-have if you want to improve your theme loading times.
+* [jQuery Walkthrough](https://github.com/jwarby/jquery-pagewalkthrough) - Make step-by-step walkthroughs for a new user.
+
 # ImpressCMS Modules
 ## Core Team
 * [Content](https://github.com/ImpressCMS/impresscms-module-content) - The base content page handler for ImpressCMS
