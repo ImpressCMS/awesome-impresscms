@@ -1,6 +1,9 @@
 # awesomelist
 The ImpressCMS list of interesting technologies and projects out there
 
+# Cool Tools
+* Slippy (https://github.com/Seldaek/slippy) - Create HTML presentations
+
 # Uncategorised
 * [Composer](https://getcomposer.org) - discover PHP packages and keep them easily managed and up-to-date
 * [dflydev embedded composer](https://github.com/dflydev/dflydev-embedded-composer) - a library to handle composer from within your PHP application
