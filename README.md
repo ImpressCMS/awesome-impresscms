@@ -15,6 +15,8 @@ The ImpressCMS list of interesting technologies and projects out there
 # Want to integrate
 * [PHP Minifier](https://github.com/matthiasmullie/minify) a PHP script that combines and minifies javascript and CSS. A must-have if you want to improve your theme loading times.
 * [jQuery Walkthrough](https://github.com/jwarby/jquery-pagewalkthrough) - Make step-by-step walkthroughs for a new user.
+* [Bootstrap rtl](https://github.com/morteza/bootstrap-rtl) adds Right-to-left support to Bootstrap 3. If we want to support these category of languages, it's a must.
+* [Bootstrap 4 RTL](http://bootstrap.rtlcss.com/) adds Right-to-left support to Bootstrap 4.
 
 # ImpressCMS Modules
 ## Core Team
