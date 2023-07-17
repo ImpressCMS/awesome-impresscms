@@ -6,7 +6,6 @@ The ImpressCMS list of interesting technologies and projects out there
 
 # Uncategorised
 * [Composer](https://getcomposer.org) - discover PHP packages and keep them easily managed and up-to-date
-* [dflydev embedded composer](https://github.com/dflydev/dflydev-embedded-composer) - a library to handle composer from within your PHP application
 * [phpStorm](https://www.jetbrains.com/phpstorm/) - An awesome IDE that makes PHP development easier. sponsors us with free licenses.
 * [HTMLPurifier](https://htmlpurifier.org) - The base library of our security effort. 
 * [WideImage](https://github.com/smottt/WideImage) - Object based PHP Image handling
@@ -15,8 +14,8 @@ The ImpressCMS list of interesting technologies and projects out there
 # Want to integrate
 * [PHP Minifier](https://github.com/matthiasmullie/minify) a PHP script that combines and minifies javascript and CSS. A must-have if you want to improve your theme loading times.
 * [jQuery Walkthrough](https://github.com/jwarby/jquery-pagewalkthrough) - Make step-by-step walkthroughs for a new user.
-* [Bootstrap rtl](https://github.com/morteza/bootstrap-rtl) adds Right-to-left support to Bootstrap 3. If we want to support these category of languages, it's a must.
 * [Bootstrap 4 RTL](http://bootstrap.rtlcss.com/) adds Right-to-left support to Bootstrap 4.
+* [CKed
 
 # ImpressCMS Modules
 ## Core Team
